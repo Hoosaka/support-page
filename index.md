@@ -10,9 +10,8 @@
 
 ## 2. お問い合わせ先
 
-**メールアドレス:** info@aivi.jp  
 **Discord:** https://discord.gg/bFjJVQzZ  
-**返信時間:** メール24-48時間以内、Discord随時対応  
+**返信時間:** Discord随時対応  
 
 お問い合わせの際は、以下の情報をお知らせください：
 - ご利用のデバイス（iPhone、iPadの機種）
