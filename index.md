@@ -10,7 +10,7 @@
 
 ## 2. お問い合わせ先
 
-**Discord:** https://discord.gg/bFjJVQzZ  
+**Discord:** https://discord.gg/tNrmCwxJP
 **返信時間:** Discord随時対応  
 
 お問い合わせの際は、以下の情報をお知らせください：
